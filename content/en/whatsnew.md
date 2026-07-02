@@ -1,3 +1,18 @@
+## What's New (Version 1.0.5)
+
+#### Changes:
+- Fixed opening a single file from File Explorer when the player was closed. The file is now correctly added to the default playlist and playback starts.
+- Fixed handling multiple selected files in File Explorer via "Add to new playlist". A single new playlist is now created for the whole selected group instead of creating a separate playlist for each file.
+- Fixed dragging files from File Explorer into the default playlist. Previously this worked only for regular playlists.
+- Improved reading embedded cover art from metadata. Covers are now displayed correctly for OGG and related scenarios, including when opened through CUE.
+- Fixed bookmarks in the default playlist after restarting the app. They now correctly find the required track and no longer become invalid.
+
+#### Additional:
+- Improved handling of commands from the Windows context menu.
+- Fixed edge cases in the default playlist that made some features unstable.
+
+---
+
 ## What's New (Version 1.0.2)
 
 #### Complete rebuild of the playlist service:
