@@ -403,35 +403,6 @@
       "size_known_mb": 47.92
     },
     {
-      "id": "simbioz",
-      "title": "Симбиоз",
-      "author": "Владислав Каменев",
-      "genres": [
-        "S.T.A.L.K.E.R"
-      ],
-      "description": "Что есть события вокруг нас? Каким образом могут быть взаимосвязаны, казалось бы, совершенно независимые происшествия? Оказывается могут - мир вокруг находится в единстве, как замкнутая система. Однако, это вовсе не означает, что нет места для противоречий и борьбы интересов.",
-      "cover": "https://svidbook.ru/storage/book_cover/1754314109_7275c53fd85247c7be3a74864a494c4d.jpg",
-      "reader": "Олег Шубин",
-      "duration": "00:14:05",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Владислав Каменев",
-      "sound": "Владислав Каменев",
-      "page_url": "https://svidbook.ru/book/simbioz",
-      "chapters": [
-        {
-          "title": "Симбиоз",
-          "url": "https://svidbook.ru/storage/audio/3364d148-dfd3-4cc2-8194-431c287959f1/1754314171_oleg_shubin_simbioz_vladislav_kamenev_audiovkcom_2.mp3"
-        }
-      ],
-      "size_bytes": null,
-      "size_mb": null,
-      "size_status": "partial",
-      "size_unknown_chapters": 1,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 0,
-      "size_known_mb": 0.0
-    },
-    {
       "id": "stalker-istorii-artefakt-strahov",
       "title": "Сталкер. Истории. Артефакт страхов",
       "author": "Захар Чернобыльский",
@@ -5730,342 +5701,173 @@
       "size_known_mb": 871.63
     },
     {
-      "id": "rzhavyy-angel",
+      "id": "svidbook-rzhavy-angel-bc",
       "title": "Ржавый Ангел",
       "author": "Андрей Деткин",
       "genres": [
         "S.T.A.L.K.E.R"
       ],
       "description": "Мир несправедлив, а в зоне к тому же и жесток. И чтобы выжить, сталкеру Грифу приходится быть изворотливым, подлым, циничным и безжалостным. Цель, она оправдывает все. Так думал Гриф, когда ходил за хабаром, отнимал его у других сталкеров. Гриф думал, что в нем не осталось ничего человеческого, что его место здесь, в зоне – заповеднике монстров и убийц, но он ошибался. Что же заставит матерого ветерана разубедиться в этом, сломать мировоззрение хищника и спасти молодого сталкера Алексея?",
-      "cover": "https://svidbook.ru/storage/book_cover/1738913065_photo_2022_05_19_20_00_40.jpg",
+      "cover": "https://archive.org/download/svidbook-detkin-rzhavy-angel/cover.jpg",
       "reader": "Олег Шубин",
-      "duration": "08:19:52",
+      "duration": "08:31:41",
       "annotation_author": "Оригинальная",
-      "cover_artist": "Оригинальная",
-      "sound": "Владислав Каменев",
-      "page_url": "https://svidbook.ru/book/rzhavyy-angel",
-      "chapters": [
-        {
-          "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/4eb8bff4-0558-4f55-8c6e-13c547c2af08/1738912853_001_v_n.mp3"
-        },
-        {
-          "title": "Глава 2",
-          "url": "https://svidbook.ru/storage/audio/c9d99ad4-f0ff-48c6-8bcc-f2bdb17ffe79/1738912843_002_v_n.mp3"
-        },
-        {
-          "title": "Глава 3",
-          "url": "https://svidbook.ru/storage/audio/177ad181-dd61-4e36-beec-67f3ca031bea/1738912829_003_v_n.mp3"
-        },
-        {
-          "title": "Глава 4",
-          "url": "https://svidbook.ru/storage/audio/62d49f1e-140a-43b8-85ce-80802bf954b6/1738912852_004_v_n.mp3"
-        },
-        {
-          "title": "Глава 5",
-          "url": "https://svidbook.ru/storage/audio/a2fcce38-cd33-42a9-8a9c-9238f86a1e0f/1738912840_005_v_n.mp3"
-        },
-        {
-          "title": "Глава 6",
-          "url": "https://svidbook.ru/storage/audio/6475ca70-32a6-4924-95b2-e09da2892973/1738912829_006_v_n.mp3"
-        },
-        {
-          "title": "Глава 7",
-          "url": "https://svidbook.ru/storage/audio/93e5b826-2878-42a9-a1ac-2d68b4e928be/1738912838_007_v_n.mp3"
-        },
-        {
-          "title": "Глава 8",
-          "url": "https://svidbook.ru/storage/audio/15b18080-3237-4f49-868c-c4ceb03e9b3e/1738912845_008_v_n.mp3"
-        },
-        {
-          "title": "Глава 9",
-          "url": "https://svidbook.ru/storage/audio/e33b2493-b42b-4dd0-94d9-2a6ce190de0e/1738912840_009_v_n.mp3"
-        },
-        {
-          "title": "Глава 10",
-          "url": "https://svidbook.ru/storage/audio/06265fc0-736b-498b-b9c2-793e7e6c3ede/1738912835_010_v_n.mp3"
-        },
-        {
-          "title": "Глава 11",
-          "url": "https://svidbook.ru/storage/audio/5a0aa78b-bc5e-4e9b-9658-b340d30250d2/1738912855_011_v_n.mp3"
-        },
-        {
-          "title": "Глава 12",
-          "url": "https://svidbook.ru/storage/audio/57f8ff33-d41f-4849-b95f-9718a75480b8/1738912854_012_v_n.mp3"
-        },
-        {
-          "title": "Глава 13",
-          "url": "https://svidbook.ru/storage/audio/737c12e4-bfc9-4dfe-935d-7e20d5ec4aa6/1738912837_013_v_n.mp3"
-        },
-        {
-          "title": "Глава 14",
-          "url": "https://svidbook.ru/storage/audio/a8c25369-e454-4868-a810-c67d9ac0047f/1738912852_014_v_n.mp3"
-        },
-        {
-          "title": "Глава 15",
-          "url": "https://svidbook.ru/storage/audio/ff555a06-0d85-4bd7-80c7-2a81ca3ea0cf/1738912842_015_v_n.mp3"
-        },
-        {
-          "title": "Глава 16",
-          "url": "https://svidbook.ru/storage/audio/0c4ffeb2-a679-4abc-b4a8-4ad275c517bb/1738912858_016_v_n.mp3"
-        },
-        {
-          "title": "Глава 17",
-          "url": "https://svidbook.ru/storage/audio/504aaa01-5536-4430-848c-4c10f497963c/1738912822_017_v_n.mp3"
-        },
-        {
-          "title": "Глава 18",
-          "url": "https://svidbook.ru/storage/audio/d2d40a3b-fb76-48f4-82d8-3ffbb6dc0867/1738912854_018_v_n.mp3"
-        },
-        {
-          "title": "Глава 19",
-          "url": "https://svidbook.ru/storage/audio/cac73d81-34d0-41aa-8a19-6f84b926648f/1738912845_019_v_n.mp3"
-        },
-        {
-          "title": "Глава 20",
-          "url": "https://svidbook.ru/storage/audio/8ddbc143-c29f-466d-ac1f-e52a28231317/1738912851_020_v_n.mp3"
-        },
-        {
-          "title": "Глава 21",
-          "url": "https://svidbook.ru/storage/audio/7547a418-afeb-429f-9aa5-5846dd1675e8/1738912845_021_v_n.mp3"
-        },
-        {
-          "title": "Глава 22",
-          "url": "https://svidbook.ru/storage/audio/8e5951bf-eb23-454b-aff9-8c5252b851ec/1738912852_022_v_n.mp3"
-        },
-        {
-          "title": "Глава 23",
-          "url": "https://svidbook.ru/storage/audio/34c80cd9-dc8e-46d7-8c0c-81fe67073fee/1738912855_023_v_n.mp3"
-        },
-        {
-          "title": "Глава 24",
-          "url": "https://svidbook.ru/storage/audio/794809d8-48cd-4e76-857a-45de175aa269/1738912844_024_v_n.mp3"
-        },
-        {
-          "title": "Глава 25",
-          "url": "https://svidbook.ru/storage/audio/a4e12820-4d69-4994-ae93-441656700885/1738912860_025_v_n.mp3"
-        },
-        {
-          "title": "Глава 26",
-          "url": "https://svidbook.ru/storage/audio/9da7af98-8630-4a34-8950-ac64a067f9b4/1738912829_026_v_n.mp3"
-        },
-        {
-          "title": "Глава 27",
-          "url": "https://svidbook.ru/storage/audio/12d87b76-c42e-4028-8f7d-d2c957ad9157/1738912856_027_v_n.mp3"
-        },
-        {
-          "title": "Глава 28",
-          "url": "https://svidbook.ru/storage/audio/94d0eaf6-d405-4287-b36d-4f3f9eddef1c/1738912833_028_v_n.mp3"
-        },
-        {
-          "title": "Глава 29",
-          "url": "https://svidbook.ru/storage/audio/88c38602-8de2-4930-b08d-b81a86124cd3/1738912839_029_v_n.mp3"
-        },
-        {
-          "title": "Глава 30",
-          "url": "https://svidbook.ru/storage/audio/05cd5a8c-bb27-4a52-acda-fca188690b77/1738912856_030_v_n.mp3"
-        },
-        {
-          "title": "Глава 31",
-          "url": "https://svidbook.ru/storage/audio/21c9ed85-e709-41ed-8c3d-24891bc25752/1738912841_031_v_n.mp3"
-        },
-        {
-          "title": "Глава 32",
-          "url": "https://svidbook.ru/storage/audio/09f3c7d5-a145-4e40-a43a-7813d225ab86/1738912857_032_v_n.mp3"
-        },
-        {
-          "title": "Глава 33",
-          "url": "https://svidbook.ru/storage/audio/ad14772d-da15-4a1b-867a-002cd883fd97/1738912851_033_v_n.mp3"
-        },
-        {
-          "title": "Глава 34",
-          "url": "https://svidbook.ru/storage/audio/4d0ab86d-fb2e-43b3-950d-167c4e1c96ef/1738912822_034_v_n.mp3"
-        },
-        {
-          "title": "Глава 35",
-          "url": "https://svidbook.ru/storage/audio/8bd0e2fa-ceae-4327-93ad-0dca44d8a15d/1738912843_035_v_n.mp3"
-        },
-        {
-          "title": "Глава 36",
-          "url": "https://svidbook.ru/storage/audio/f97d1673-7b28-498f-b0a7-aacf4a44516e/1738912852_036_v_n.mp3"
-        }
-      ],
-      "size_bytes": 505911425,
-      "size_mb": 482.47,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 505911425,
-      "size_known_mb": 482.47
-    },
-    {
-      "id": "rzhavyy-angel-muz",
-      "title": "Ржавый ангел (Муз)",
-      "author": "Андрей Деткин",
-      "genres": [
-        "S.T.A.L.K.E.R"
-      ],
-      "description": "Мир несправедлив, а в зоне к тому же и жесток. И чтобы выжить, сталкеру Грифу приходится быть изворотливым, подлым, циничным и безжалостным. Цель, она оправдывает все. Так думал Гриф, когда ходил за хабаром, отнимал его у других сталкеров и деньги отправлял в клинику на лечение дочери. Гриф думал, что в нем не осталось ничего человеческого, что его место здесь, в зоне – заповеднике монстров и убийц, но он ошибался. Что же заставит матерого ветерана разубедиться в этом, сломать мировоззрение хищника и спасти молодого сталкера Алексея?",
-      "cover": "https://svidbook.ru/storage/book_cover/1739450761_lgbip8iehly.jpg",
-      "reader": "Олег Шубин",
-      "duration": "08:31:42",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Алексей Мальцев",
+      "cover_artist": "Владислав Каменев",
       "sound": "Владислав Каменев",
       "page_url": "https://svidbook.ru/book/rzhavyy-angel-muz",
       "chapters": [
         {
           "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/bca62481-ef4b-415d-b12b-57a4d055529b/1739450922_001.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/001.ogg"
         },
         {
           "title": "Глава 2",
-          "url": "https://svidbook.ru/storage/audio/ac3b209f-38d5-4273-8e86-ae936f729bfe/1739450894_002.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/002.ogg"
         },
         {
           "title": "Глава 3",
-          "url": "https://svidbook.ru/storage/audio/f7e5a5ee-1633-4264-a900-d425dec904f7/1739450860_003.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/003.ogg"
         },
         {
           "title": "Глава 4",
-          "url": "https://svidbook.ru/storage/audio/fbd7e310-68f7-4cf9-921d-c9e8568f1780/1739450918_004.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/004.ogg"
         },
         {
           "title": "Глава 5",
-          "url": "https://svidbook.ru/storage/audio/f12f0326-68c8-4c4c-bbbd-173f86df61df/1739450885_005.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/005.ogg"
         },
         {
           "title": "Глава 6",
-          "url": "https://svidbook.ru/storage/audio/cfce013e-8f60-4c54-b7a8-48def0cf1040/1739450860_006.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/006.ogg"
         },
         {
           "title": "Глава 7",
-          "url": "https://svidbook.ru/storage/audio/584290bc-f4ab-4fff-9c40-310cf1b0cec2/1739450880_007.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/007.ogg"
         },
         {
           "title": "Глава 8",
-          "url": "https://svidbook.ru/storage/audio/5eb7bf50-254c-4177-92ed-6cafe47821c9/1739450900_008.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/008.ogg"
         },
         {
           "title": "Глава 9",
-          "url": "https://svidbook.ru/storage/audio/41c168a4-2c9f-45b5-9101-b838b891f284/1739450890_009.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/009.ogg"
         },
         {
           "title": "Глава 10",
-          "url": "https://svidbook.ru/storage/audio/35d044a9-457f-489b-8d5f-0ed6ae1b4265/1739450873_010.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/010.ogg"
         },
         {
           "title": "Глава 11",
-          "url": "https://svidbook.ru/storage/audio/0d0e0d3a-37b0-406f-b3b1-cdb714070d34/1739450928_011.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/011.ogg"
         },
         {
           "title": "Глава 12",
-          "url": "https://svidbook.ru/storage/audio/bde41b90-8f5d-4d05-864d-f570f74f787a/1739450922_012.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/012.ogg"
         },
         {
           "title": "Глава 13",
-          "url": "https://svidbook.ru/storage/audio/74a275a1-b020-4d13-ad14-337fc78bdc2e/1739450881_013.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/013.ogg"
         },
         {
           "title": "Глава 14",
-          "url": "https://svidbook.ru/storage/audio/c030911e-63c4-48b5-b0ae-74382ac8b8fe/1739450917_014.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/014.ogg"
         },
         {
           "title": "Глава 15",
-          "url": "https://svidbook.ru/storage/audio/c195f11b-8bcd-46f3-84ae-6c0893514ec6/1739450894_015.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/015.ogg"
         },
         {
           "title": "Глава 16",
-          "url": "https://svidbook.ru/storage/audio/6ea29ee7-3e5c-474c-a5cc-642117267253/1739450932_016.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/016.ogg"
         },
         {
           "title": "Глава 17",
-          "url": "https://svidbook.ru/storage/audio/5d2affcd-b82b-43ee-8cfb-35c6ba860015/1739450845_017.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/017.ogg"
         },
         {
           "title": "Глава 18",
-          "url": "https://svidbook.ru/storage/audio/34b93bdc-b33e-4729-8a40-f9c740ccf119/1739450922_018.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/018.ogg"
         },
         {
           "title": "Глава 19",
-          "url": "https://svidbook.ru/storage/audio/0407257d-662f-45fe-8cab-d143155909e4/1739450900_019.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/019.ogg"
         },
         {
           "title": "Глава 20",
-          "url": "https://svidbook.ru/storage/audio/9bfe4dde-8fdf-4262-9883-741e2510ca9f/1739450916_020.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/020.ogg"
         },
         {
           "title": "Глава 21",
-          "url": "https://svidbook.ru/storage/audio/8f13ec7f-e4be-45be-934e-493970e36b2a/1739450901_021.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/021.ogg"
         },
         {
           "title": "Глава 22",
-          "url": "https://svidbook.ru/storage/audio/bbbc24c7-4c3c-4945-b4f6-b7c53e50dca8/1739450918_022.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/022.ogg"
         },
         {
           "title": "Глава 23",
-          "url": "https://svidbook.ru/storage/audio/67947422-2eb0-4bdf-9976-4dc6e85024c1/1739450925_023.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/023.ogg"
         },
         {
           "title": "Глава 24",
-          "url": "https://svidbook.ru/storage/audio/4300064e-c5c7-48a9-a22d-bdb8e3ec516f/1739450899_024.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/024.ogg"
         },
         {
           "title": "Глава 25",
-          "url": "https://svidbook.ru/storage/audio/3fe58b6d-054f-4499-b19a-89a64c002700/1739450938_025.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/025.ogg"
         },
         {
           "title": "Глава 26",
-          "url": "https://svidbook.ru/storage/audio/c8bed23e-114a-4d42-b1ee-0350ac070321/1739450861_026.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/026.ogg"
         },
         {
           "title": "Глава 27",
-          "url": "https://svidbook.ru/storage/audio/aa5c485d-d0a2-4dd6-bebd-8e6044dc2544/1739450928_027.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/027.ogg"
         },
         {
           "title": "Глава 28",
-          "url": "https://svidbook.ru/storage/audio/893bd58a-05a9-479c-9283-df790a87d893/1739450868_028.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/028.ogg"
         },
         {
           "title": "Глава 29",
-          "url": "https://svidbook.ru/storage/audio/be8b0597-e4c1-456e-a485-8f7fde6722cc/1739450885_029.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/029.ogg"
         },
         {
           "title": "Глава 30",
-          "url": "https://svidbook.ru/storage/audio/37b41588-3ce6-4bef-a496-18e63a0c2c90/1739450928_030.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/030.ogg"
         },
         {
           "title": "Глава 31",
-          "url": "https://svidbook.ru/storage/audio/577a059a-1417-455e-aa3a-0ea8db866383/1739450889_031.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/031.ogg"
         },
         {
           "title": "Глава 32",
-          "url": "https://svidbook.ru/storage/audio/d3212c8e-9796-4fce-a0b7-2ee8dc8f00cc/1739450930_032.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/032.ogg"
         },
         {
           "title": "Глава 33",
-          "url": "https://svidbook.ru/storage/audio/89f1c491-5d77-49b4-8431-1ea87a8432e5/1739450915_033.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/033.ogg"
         },
         {
           "title": "Глава 34",
-          "url": "https://svidbook.ru/storage/audio/507ec251-e1bc-4628-87f7-85779256cadd/1739450843_034.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/034.ogg"
         },
         {
           "title": "Глава 35",
-          "url": "https://svidbook.ru/storage/audio/3ce48d44-654b-4d31-b819-4c683be43a7e/1739450895_035.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/035.ogg"
         },
         {
           "title": "Глава 36",
-          "url": "https://svidbook.ru/storage/audio/5283b5f1-808e-442b-886c-fe1bc5023ac7/1739450923_036.mp3"
+          "url": "https://archive.org/download/svidbook-detkin-rzhavy-angel/036.ogg"
         }
       ],
-      "size_bytes": 1231687924,
-      "size_mb": 1174.63,
+      "size_bytes": 1463012750,
+      "size_mb": 1395.24,
       "size_status": "ok",
       "size_unknown_chapters": 0,
       "size_estimated_chapters": 0,
-      "size_known_bytes": 1231687924,
-      "size_known_mb": 1174.63
+      "size_known_bytes": 1463012750,
+      "size_known_mb": 1395.24
     },
     {
       "id": "serdtse-zony",
@@ -16736,13 +16538,70 @@
           "url": "https://svidbook.ru/storage/audio/7c4c8690-d309-4a38-bf66-e2a6ca4e9043/1768047741_nik_perumov_konan_i_menshee_zlo_2.mp3"
         }
       ],
-      "size_bytes": 83694444,
-      "size_mb": 79.82,
+      "size_bytes": 187695104,
+      "size_mb": 179.82,
       "size_status": "ok",
       "size_unknown_chapters": 0,
       "size_estimated_chapters": 0,
-      "size_known_bytes": 83694444,
-      "size_known_mb": 79.82
+      "size_known_bytes": 187695104,
+      "size_known_mb": 179.82
+    },
+    {
+      "id": "konan-i-menshee-zlo-bc",
+      "title": "Конан и меньшее зло",
+      "author": "Ник Перумов",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Как начинаются все приключения Конана-киммерийца, Конана-варвара? Дорога, заброшенные развалины, запуганные жители, и мрачная тайна, поджидающая в голодных руинах.",
+      "cover": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/cover.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:58:12",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "AI - Владислав Каменев",
+      "sound": "Владислав Каменев",
+      "page_url": "https://svidbook.ru/book/konan-i-menshee-zlo-version-2",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/001.ogg"
+        },
+        {
+          "title": "Глава 2",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/002.ogg"
+        },
+        {
+          "title": "Глава 3",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/003.ogg"
+        },
+        {
+          "title": "Глава 4",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/004.ogg"
+        },
+        {
+          "title": "Глава 5",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/005.ogg"
+        },
+        {
+          "title": "Глава 6",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/006.ogg"
+        },
+        {
+          "title": "Глава 7",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/007.ogg"
+        },
+        {
+          "title": "Глава 8",
+          "url": "https://archive.org/download/svidbook-perumov-konan-i-menshee-zlo/008.ogg"
+        }
+      ],
+      "size_bytes": 230000000,
+      "size_mb": 219.35,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 230000000,
+      "size_known_mb": 219.35
     },
     {
       "id": "kontaktnyy-zoopark",
@@ -18962,7 +18821,65 @@
       "size_estimated_chapters": 0,
       "size_known_bytes": 24582686,
       "size_known_mb": 23.44
-    },    
+    },
+    {
+      "id": "plamenev-kniga-i",
+      "title": "Пламенев. Книга I",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Я был нелюбимым приемным сыном в деревенской семье. И даже не подозревал, кем являюсь на самом деле.\r\nВсе изменилось в одну ночь, когда с неба, объятый пламенем, упал человек.\r\nСудьба или случай свели нас - не знаю, но именно с этой встречи начался мой путь от презираемого приемыша вперед и вверх, к силе, власти и звездам.\r\nНо враги уже близко. И первый урок будет простым: в мире культиваторов выживает только сильнейший.",
+      "cover": "https://svidbook.ru/storage/book_cover/1770919216_b11956aadfeb492e90cc9c6cae4c6270.jpg",
+      "reader": "Александр Авгур",
+      "duration": "08:14:20",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-i",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/f34e0496-2ed6-433c-8530-24c05a42e02a/1770919672_p1_001.mp3"
+        }
+      ],
+      "size_bytes": 59625782,
+      "size_mb": 56.86,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 59625782,
+      "size_known_mb": 56.86
+    },
+    {
+      "id": "plamenev-kniga-ii",
+      "title": "Пламенев. Книга II",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Простое и понятное, хотя и безрадостное, прошлое осталось позади. Деревня, где вырос, далеко не лучшая, но все-таки семья, человек, который стал учителем и другом.\r\nВсе это у меня безжалостно отняли.\r\nИ хотя мне чудом удалось избежать преследования, жизнь мне придется начинать с чистого листа. Что же, возможно, это и не плохо.\r\nВпереди - город, впереди - поиски моих корней, бои без правил, городские банды и неизбежный рост силы. Потому что в жестоком мире подворотен и переулков выжить может только сильнейший.",
+      "cover": "https://svidbook.ru/storage/book_cover/1772650370_photo_2026_03_04_23_38_04.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:41:07",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-ii",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/1d6ed930-0538-4224-b6b5-06c0f1dcf647/1772650749_p2_001.mp3"
+        }
+      ],
+      "size_bytes": 47275088,
+      "size_mb": 45.09,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 47275088,
+      "size_known_mb": 45.09
+    },
     {
       "id": "pogonya",
       "title": "Погоня",
@@ -33633,35 +33550,6 @@
       "size_known_mb": 88.74
     },
     {
-      "id": "konan-i-menshee-zlo-version-2",
-      "title": "Конан и меньшее зло. Version 2",
-      "author": "Ник Перумов",
-      "genres": [
-        "Фантастика"
-      ],
-      "description": "Как начинаются все приключения Конана-киммерийца, Конана-варвара? Дорога, заброшенные развалины, запуганные жители, и мрачная тайна, поджидающая в голодных руинах.",
-      "cover": "https://svidbook.ru/storage/book_cover/1775978979_019d808f_965d_7af5_8165_d9a647fd71ac.png",
-      "reader": "Олег Шубин",
-      "duration": "01:05:08",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Дмитрий Королевский",
-      "sound": null,
-      "page_url": "https://svidbook.ru/book/konan-i-menshee-zlo-version-2",
-      "chapters": [
-        {
-          "title": "Конан и меньшее зло",
-          "url": "https://svidbook.ru/storage/audio/f552d904-c7ca-4acd-a531-489172d26861/1775978959_konan.mp3"
-        }
-      ],
-      "size_bytes": 62386258,
-      "size_mb": 59.5,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 62386258,
-      "size_known_mb": 59.5
-    },
-    {
       "id": "lichnyy-aptekar-imperatora-tom-10",
       "title": "Личный аптекарь императора. Том 10",
       "author": "Сергей Карелин, Егор Золотарев",
@@ -34516,122 +34404,6 @@
       "size_estimated_chapters": 0,
       "size_known_bytes": 1602670176,
       "size_known_mb": 1528.43
-    },
-    {
-      "id": "plamenev-kniga-i",
-      "title": "Пламенев. Книга I",
-      "author": "Сергей Карелин, Юрий Розин",
-      "genres": [
-        "Фантастика"
-      ],
-      "description": "Я был нелюбимым приемным сыном в деревенской семье. И даже не подозревал, кем являюсь на самом деле.\r\nВсе изменилось в одну ночь, когда с неба, объятый пламенем, упал человек.\r\nСудьба или случай свели нас - не знаю, но именно с этой встречи начался мой путь от презираемого приемыша вперед и вверх, к силе, власти и звездам.\r\nНо враги уже близко. И первый урок будет простым: в мире культиваторов выживает только сильнейший.",
-      "cover": "https://svidbook.ru/storage/book_cover/1770919216_b11956aadfeb492e90cc9c6cae4c6270.jpg",
-      "reader": "Александр Авгур",
-      "duration": "08:14:20",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Оригинальная",
-      "sound": "Александр Авгур",
-      "page_url": "https://svidbook.ru/book/plamenev-kniga-i",
-      "chapters": [
-        {
-          "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/f34e0496-2ed6-433c-8530-24c05a42e02a/1770919672_p1_001.mp3"
-        }
-      ],
-      "size_bytes": 59625782,
-      "size_mb": 56.86,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 59625782,
-      "size_known_mb": 56.86
-    },
-    {
-      "id": "plamenev-kniga-ii",
-      "title": "Пламенев. Книга II",
-      "author": "Сергей Карелин, Юрий Розин",
-      "genres": [
-        "Фантастика"
-      ],
-      "description": "Простое и понятное, хотя и безрадостное, прошлое осталось позади. Деревня, где вырос, далеко не лучшая, но все-таки семья, человек, который стал учителем и другом.\r\nВсе это у меня безжалостно отняли.\r\nИ хотя мне чудом удалось избежать преследования, жизнь мне придется начинать с чистого листа. Что же, возможно, это и не плохо.\r\nВпереди - город, впереди - поиски моих корней, бои без правил, городские банды и неизбежный рост силы. Потому что в жестоком мире подворотен и переулков выжить может только сильнейший.",
-      "cover": "https://svidbook.ru/storage/book_cover/1772650370_photo_2026_03_04_23_38_04.jpg",
-      "reader": "Александр Авгур",
-      "duration": "07:41:07",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Оригинальная",
-      "sound": "Александр Авгур",
-      "page_url": "https://svidbook.ru/book/plamenev-kniga-ii",
-      "chapters": [
-        {
-          "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/1d6ed930-0538-4224-b6b5-06c0f1dcf647/1772650749_p2_001.mp3"
-        }
-      ],
-      "size_bytes": 47275088,
-      "size_mb": 45.09,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 47275088,
-      "size_known_mb": 45.09
-    },
-    {
-      "id": "plamenev-kniga-iii",
-      "title": "Пламенев. Книга III",
-      "author": "Сергей Карелин, Юрий Розин",
-      "genres": [
-        "Фантастика"
-      ],
-      "description": "Человек, который должен был рассказать мне о моей семье и моем наследии, мертв. От него осталось только письмо, отправляющее меня за тысячи километров.\r\nЧтобы добраться, наконец, до правды, одного желания недостаточно.\r\nМне придется сыграть сына криминального авторитета, вступить в борьбу за власть внутри банды и начать путь к формированию собственного клана. И я приму все испытания, что приготовила мне судьба",
-      "cover": "https://svidbook.ru/storage/book_cover/1774536673_f687877ea4094049950cdb4dd41095ba.jpg",
-      "reader": "Александр Авгур",
-      "duration": "07:39:43",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Оригинальная",
-      "sound": "Александр Авгур",
-      "page_url": "https://svidbook.ru/book/plamenev-kniga-iii",
-      "chapters": [
-        {
-          "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/48c0fab1-95da-4425-897b-e48dabba6d54/1774537423_p3_001.mp3"
-        }
-      ],      
-      "size_bytes": 47275088,
-      "size_mb": 45.09,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 47275088,
-      "size_known_mb": 45.09
-    },
-    {
-      "id": "plamenev-kniga-iv",
-      "title": "Пламенев. Книга IV",
-      "author": "Сергей Карелин, Юрий Розин",
-      "genres": [
-        "Фантастика"
-      ],
-      "description": "Объявленный розыск снят силами эксцентричного отпрыска вражеского рода, но моя история в банде Червонной Руки на этом только начинается.\r\nДо вступительных экзаменов остается меньше полугода, а я еще не сделал ничего из того, что запланировал. Так что впереди меня ждут новые вызовы, жестокие битвы и даже, возможно, любовь (я, что, не человек, что ли?).\r\nВ любом случае просто не будет. Но это и неплохо, ведь только в сложностях можно стать по-настоящему сильным.",
-      "cover": "https://svidbook.ru/storage/book_cover/1777966530_photo_2026_04_17_12_13_00.jpg",
-      "reader": "Александр Авгур",
-      "duration": "07:48:24",
-      "annotation_author": "Оригинальная",
-      "cover_artist": "Оригинальная",
-      "sound": "Александр Авгур",
-      "page_url": "https://svidbook.ru/book/plamenev-kniga-iv",
-      "chapters": [
-        {
-          "title": "Глава 1",
-          "url": "https://svidbook.ru/storage/audio/732a045a-4ee9-4137-b555-209efa6e4000/1776410963_p4_001.mp3"
-        }
-      ],
-      "size_bytes": 50627121,
-      "size_mb": 48.28,
-      "size_status": "ok",
-      "size_unknown_chapters": 0,
-      "size_estimated_chapters": 0,
-      "size_known_bytes": 50627121,
-      "size_known_mb": 48.28
     },
     {
       "id": "plamenev-kniga-v",
@@ -36046,19 +35818,911 @@
       "size_estimated_chapters": 0,
       "size_known_bytes": 59622617,
       "size_known_mb": 56.86
-    }
-  ],
-  "_size_probe_errors": [
+    },
     {
-      "book_id": "simbioz",
-      "book_title": "Симбиоз",
-      "chapter_title": "Симбиоз",
-      "url": "https://svidbook.ru/storage/audio/3364d148-dfd3-4cc2-8194-431c287959f1/1754314171_oleg_shubin_simbioz_vladislav_kamenev_audiovkcom_2.mp3",
-      "method": "HTTP failed",
-      "http_status": 404,
-      "duration_seconds": null,
-      "bit_rate": null,
-      "error": "HTTPError: 404 Not Found"
+      "id": "dom-na-bolote-version-2026",
+      "title": "Дом на болоте (version 2026)",
+      "author": "Алексей Калугин",
+      "genres": [
+        "S.T.A.L.K.E.R"
+      ],
+      "description": "В начале XXI века вокруг Чернобыльской атомной станции образовалась загадочная аномальная Зона, и многие любители легкой наживы слетелись сюда в надежде разыскать редкостные артефакты, стоящие огромных денег. Но очень скоро стало ясно, что вернуться отсюда удастся далеко не всем…\r\nУ сталкера Штыря был собственный план обогащения. Он не собирался прорываться через радиоактивные территории и смертоносные ловушки к таинственному Монолиту, исполняющему желания, не собирался сражаться с мародерами и свирепыми мутантами – он просто хотел ограбить и убить живущего на болоте Доктора, человека, который бескорыстно лечил раненых сталкеров. Штырь не знал, что тем самым бросает вызов не только сталкерскому братству, но и всей Зоне…",
+      "cover": "https://svidbook.ru/storage/book_cover/1782838671_unnamed.webp",
+      "reader": "Олег Шубин",
+      "duration": "09:33:29",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Алексей Мальцев",
+      "sound": "Владислав Каменев",
+      "page_url": "https://svidbook.ru/book/dom-na-bolote-version-2026",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/26e05ad3-5840-476a-b2df-b3774d18b29e/1782838903_01.mp3"
+        },
+        {
+          "title": "Глава 2",
+          "url": "https://svidbook.ru/storage/audio/17aa24ae-8530-468b-9710-2175fceb0656/1782838898_02.mp3"
+        },
+        {
+          "title": "Глава 3",
+          "url": "https://svidbook.ru/storage/audio/3dd1be0f-8bb1-46db-bd28-1e1364c7bc0e/1782838866_03.mp3"
+        },
+        {
+          "title": "Глава 4",
+          "url": "https://svidbook.ru/storage/audio/fd94a739-9afe-4b1a-b1a4-3149f72cd37d/1782838696_04.mp3"
+        },
+        {
+          "title": "Глава 5",
+          "url": "https://svidbook.ru/storage/audio/915ba816-229c-4eef-85f6-c0a8cbcd8a87/1782838915_05.mp3"
+        },
+        {
+          "title": "Глава 6",
+          "url": "https://svidbook.ru/storage/audio/d1858e77-2b9f-45fd-9331-0238a3741d7f/1782838726_06.mp3"
+        },
+        {
+          "title": "Глава 7",
+          "url": "https://svidbook.ru/storage/audio/09689ec3-c52a-41e8-8fff-f59f8e90ca80/1782838769_07.mp3"
+        },
+        {
+          "title": "Глава 8",
+          "url": "https://svidbook.ru/storage/audio/0c7206b9-ae12-4a3e-85c7-c33482e62aae/1782838789_08.mp3"
+        },
+        {
+          "title": "Глава 9",
+          "url": "https://svidbook.ru/storage/audio/d76ab7bb-18dc-46bf-99e1-30f8ad92118e/1782838902_09.mp3"
+        },
+        {
+          "title": "Глава 10",
+          "url": "https://svidbook.ru/storage/audio/288fa7cc-6282-4d37-a0d8-6e017309cdef/1782838924_10.mp3"
+        },
+        {
+          "title": "Глава 11",
+          "url": "https://svidbook.ru/storage/audio/774f876e-0151-4c49-9828-42eebfe3a9b0/1782838880_11.mp3"
+        },
+        {
+          "title": "Глава 12",
+          "url": "https://svidbook.ru/storage/audio/eff93a4b-ae00-4b1a-9784-d656402bddb7/1782838923_12.mp3"
+        },
+        {
+          "title": "Глава 13",
+          "url": "https://svidbook.ru/storage/audio/8e2e5ad2-96dc-41a6-9ea9-011549d67ae7/1782838790_13.mp3"
+        },
+        {
+          "title": "Глава 14",
+          "url": "https://svidbook.ru/storage/audio/32799a50-aa8f-47ae-9194-43165f27c45b/1782838799_14.mp3"
+        },
+        {
+          "title": "Глава 15",
+          "url": "https://svidbook.ru/storage/audio/6f90379d-2176-43ee-853a-557763a2745f/1782838863_15.mp3"
+        },
+        {
+          "title": "Глава 16",
+          "url": "https://svidbook.ru/storage/audio/e0be2857-5019-4e7c-bc9e-d7cb73c798f7/1782838759_16.mp3"
+        },
+        {
+          "title": "Глава 17",
+          "url": "https://svidbook.ru/storage/audio/21fef02d-b77f-4c5d-ba29-442aa52d5b33/1782838778_17.mp3"
+        },
+        {
+          "title": "Глава 18",
+          "url": "https://svidbook.ru/storage/audio/0e59a235-2983-44bf-ac9e-e18034ce7cca/1782838911_18.mp3"
+        },
+        {
+          "title": "Глава 19",
+          "url": "https://svidbook.ru/storage/audio/2084abaf-c334-422a-9f92-0fc56e068ba5/1782838755_19.mp3"
+        },
+        {
+          "title": "Глава 20",
+          "url": "https://svidbook.ru/storage/audio/d3a53036-706b-4452-b709-5e4d037364a2/1782838779_20.mp3"
+        },
+        {
+          "title": "Глава 21",
+          "url": "https://svidbook.ru/storage/audio/bcde2a7a-e499-4241-8c10-61be724f8f6f/1782838798_21.mp3"
+        },
+        {
+          "title": "Глава 22",
+          "url": "https://svidbook.ru/storage/audio/21cb764f-7b57-420a-973c-c354b825c876/1782838712_22.mp3"
+        }
+      ],
+      "size_bytes": 1104158217,
+      "size_mb": 1053.01,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 1104158217,
+      "size_known_mb": 1053.01
+    },
+    {
+      "id": "advokat-imperii-16",
+      "title": "Адвокат империи 16",
+      "author": "Сергей Карелин, Ник Фабер",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Я был адвокатом. Честным. Не верите? Зря, ведь именно поэтому меня и убили. Судьба или боги решили дать мне еще один шанс и отправили в мир магии, аристократов и корпораций. Вот только забыли дать мне при этом и магию, и благородный род, поместив в тело простолюдина. Правда все-таки кое-что мне перепало - умение читать эмоции людей. Что ж у меня опять есть возможность заняться любимым делом, ведь адвокат это не профессия — это призвание.",
+      "cover": "https://svidbook.ru/storage/book_cover/1783941828_71108d38f2b449278c1d13687ec43bd7.jpg",
+      "reader": "Олег Шубин",
+      "duration": "08:32:55",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Наталья Ра",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/advokat-imperii-16",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/d48ca354-79b6-480f-84e4-449d4cc04958/1783942274_advokat_16_01.mp3"
+        }
+      ],
+      "size_bytes": 22479515,
+      "size_mb": 21.44,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 22479515,
+      "size_known_mb": 21.44
+    },
+    {
+      "id": "arhitektor-dush-viii",
+      "title": "Архитектор Душ VIII",
+      "author": "Сергей Карелин, Александр Вольт",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Говорящие гримуары, энергетические вампиры, доппельгангер, что остается на шаг впереди меня в искусстве управления психеей...\r\nА можно мне просто посидеть на веранде, качаясь в кресле-качалке, потягивать горячий чай и смотреть на закат? Нет? Ладно, значит будем разбираться дальше.\r\nИтак, верфь. Алиса, собирайся, мы едем наводить порядки!",
+      "cover": "https://svidbook.ru/storage/book_cover/1782719004_3dc464976cbc4cb0bc7fd02bdd2a04e5.jpg",
+      "reader": "актёр Костя Суханов",
+      "duration": "09:54:25",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Наталья Ра",
+      "sound": "актёр Костя Суханов",
+      "page_url": "https://svidbook.ru/book/arhitektor-dush-viii",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/eee8a2a4-e290-4b81-90a7-e38f28b8fe11/1782719656_1_glava_arhitektor_dush_8_kniga_sergey_karelin_aleksandr_volt.mp3"
+        }
+      ],
+      "size_bytes": 67986848,
+      "size_mb": 64.84,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 67986848,
+      "size_known_mb": 64.84
+    },
+    {
+      "id": "evolyutsiya-tselitelya-3",
+      "title": "Эволюция целителя 3",
+      "author": "Сергей Карелин, Сергей Харченко",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Я был простым интерном. И моя жизнь устраивала меня. Но один несчастный случай разрушил её.\r\nТеперь я в ином мире, где врачи — могущественные маги-целители.\r\nСам же я — жалкий лекарь со слабым даром, обречённый лечить уголовников в подвалах.\r\nНо я не собираюсь сдаваться. Тем более что я не один — у меня есть помощник, с которым я способен многое изменить.",
+      "cover": "https://svidbook.ru/storage/book_cover/1782724734_80e34f2d2d5d4581ad99a58f7353fe59.jpg",
+      "reader": "CJ",
+      "duration": "07:08:37",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "DrakArt",
+      "sound": "CJ",
+      "page_url": "https://svidbook.ru/book/evolyutsiya-tselitelya-3",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/404cf2ed-a508-45b4-98c3-df45d1eba8b9/1782725293_glava_1.mp3"
+        }
+      ],
+      "size_bytes": 34247598,
+      "size_mb": 32.66,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 34247598,
+      "size_known_mb": 32.66
+    },
+    {
+      "id": "fort-roks",
+      "title": "Форт Рокс",
+      "author": "Григорий Неделько",
+      "genres": [
+        "Другое"
+      ],
+      "description": "Это золото-хранилище, и оно называется Форт Рокс.\r\nНет, оно не имеет никакого отношения к знаменитому «Форту Нокс», разве что золота в Роксе ничуть не меньше. А также здесь хранятся бесконечные алмазы, изумруды, рубины и прочие драгоценные камни. Форт Рокс – идеально засекреченное место, где таятся в ожидании всё не приходящего хозяина деньги и драгоценные металлы (золото, серебро, платина…) и ценные бумаги, и что угодно ещё: просто отпустите на волю воображение.\r\nНазвание неслучайно. Форт Рокс. Каменный форт; форт рока… Кажется, звучание титула многое объясняет.\r\nНо не только в звуке дело, ведь имена и названия не даются с бухты-барахты. В частности, упоминаемое хранилище, самое богатое и знаменитое за всю историю Земли, способно подарить больше желанных металла и камней, чем вы даже можете вообразить, и потому оно, конечно, отлично охраняется. Превосходно, бескомпромиссно… безнадёжно. В чём смысл последнего слова?\r\nК сожалению, знаменитый приключенец Айван Смит не ведал ответа на вопрос. Ему повезло уже в том, что удалось разузнать о Форте от надёжных людей и попасть внутрь. Какие испытания ждали мужчину дальше? Многочисленные препятствия, опасности, ловушки, которые ни представить, ни, тем более, описать не в состоянии ни один автор, нынешний или ранее живущий. И всё же попробуем.\r\nИтак, будущее. Возможно, преемник «Форта Нокс». И человек, отважившийся, вопреки всему, спуститься под землю, на дно бездны канализации, и ещё ниже, чтобы лично раскрыть тайну эпохального золото-хранилища и забрать оттуда столько ценностей, сколько получится унести в безразмерном вакуумном мешке.\r\nЧеловек против Форта.\r\nПрирода против Техногенности.",
+      "cover": "https://svidbook.ru/storage/book_cover/1782972135_d9fr_j_taecdfom6hqypjig_sj7smh7t5r3esqpwpkojmxyqfn_xhdlya1f6ut7xqio0a0hk.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:12:07",
+      "annotation_author": "Михаил Загирняк",
+      "cover_artist": "Алексей Мальцев",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/fort-roks",
+      "chapters": [
+        {
+          "title": "Глава",
+          "url": "https://svidbook.ru/storage/audio/61c34d12-26a5-4781-9374-4ccfddfeb167/1782972126_fort_roks.mp3"
+        }
+      ],
+      "size_bytes": 11637493,
+      "size_mb": 11.1,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 11637493,
+      "size_known_mb": 11.1
+    },
+    {
+      "id": "imperskiy-povar-kniga-6",
+      "title": "Имперский повар. Книга 6",
+      "author": "Сергей Карелин, Вадим Фарг",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Я-то думал, самое сложное — это научить паренька резать лук без слёз. Как же я ошибался. Моё скромное меню из «супа дня» и «отличных котлет» внезапно потребовало расширения. Сначала в него добавились «разборки с местной мафией» (подаются с острым соусом из унижения), затем «политические интриги» (блюдо холодное, требует выдержки). А теперь, похоже, на десерт мне готовят «имперские тайны» и «магические заговоры». Моя закусочная в Зареченске оказалась лишь пробником. Основное блюдо, как я понимаю, будут подавать уже в масштабах всей Империи. Что ж, фартук завязан, нож наточен. Посмотрим, кто кого съест.",
+      "cover": "https://svidbook.ru/storage/book_cover/1784345391_941acc8f31ac42bdb6c47c04ae194d72.jpg",
+      "reader": "Владимир Радько",
+      "duration": "08:49:48",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Ольга Риви",
+      "sound": "Владимир Радько",
+      "page_url": "https://svidbook.ru/book/imperskiy-povar-kniga-6",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/656dbada-c74a-4a59-913d-0dff9ba8b503/1784344132_glava_1.mp3"
+        }
+      ],
+      "size_bytes": 15831098,
+      "size_mb": 15.1,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 15831098,
+      "size_known_mb": 15.1
+    },
+    {
+      "id": "imya-nam-legion-tom-19",
+      "title": "Имя нам Легион. Том 19",
+      "author": "Дмитрий Дорничев, Евгений Лисицин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Привет, лысая обезьяна! Что? Удивлён, увидев пришельца? Ха! Поверь, лучше я, чем Рой чудовищ, пожирающий миры. Он, кстати, прилетит лет так через десять, и всем вам хана.\r\nЧто? Хочешь выжить? Тогда вступай в Легион!\r\nЛегион — это возможность заработать! А деньги — это твоё спасение. И да... Никому не рассказывай про Легион. Тебе всё равно никто не поверит.",
+      "cover": "https://svidbook.ru/storage/book_cover/1782229480_9b1be9a7e2fb4535a0dbe31765d51eb0.jpg",
+      "reader": "Олег Шубин",
+      "duration": "08:24:16",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Наталья Ра",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/imya-nam-legion-tom-19",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/687985aa-9acc-456f-9fbc-3444fa83c195/1782229580_legion19_01.mp3"
+        }
+      ],
+      "size_bytes": 23025788,
+      "size_mb": 21.96,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 23025788,
+      "size_known_mb": 21.96
+    },
+    {
+      "id": "lomaya-stenu-bud-ostorozhen",
+      "title": "Ломая стену, будь осторожен",
+      "author": "Григорий Неделько",
+      "genres": [
+        "Другое"
+      ],
+      "description": "Незаконное потребление наркотических средств, психотропных веществ, их аналогов причиняет вред здоровью, их незаконный оборот запрещён и влечет установленную законодательством ответственность.\r\n\r\nВ доступной форме читателю предлагается ознакомиться с таким явлением как психоделика. Психоделическое искусство будоражит любопытство уже самим фактом существования. Ведь читатель, слушатель, зритель не рискуют физическим и психическим здоровьем, когда соглашаются внимать произведению искусства.\r\nСлушателю предлагаются важнейшие события 60-х, которые навсегда изменили лик искусства. Сейчас сложно кого-нибудь удивить наркотическими откровениями, но тем не менее психоделические вкрапления встречаются в подчас совершенно разножанровых произведениях. Главное достижение эпохи – искусство сделало большой шаг во внутренний мир художника.\r\nНаибольшее внимание автор уделяет музыкальному альбому и одноименному фильму Pink Floyd. Увидеть мир не таким, как есть способен каждый, кто принимал так называемые расширители сознания. Но описать, сделать продуктом художественного творчества оказались способны далеко не все.\r\nНу что, вперед, навстречу к причудливым мирам?",
+      "cover": "https://svidbook.ru/storage/book_cover/1782973086_tw9uuit6mibig3rpcwaocfgfw8om0t8jk6ykrc9ayc94wczv_ejlnaoeiyu8fjfly03kwd6cvtkmtyfr.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:08:12",
+      "annotation_author": "Михаил Загирняк",
+      "cover_artist": "Sent-Lukas",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/lomaya-stenu-bud-ostorozhen",
+      "chapters": [
+        {
+          "title": "Ломая стену, будь осторожен",
+          "url": "https://svidbook.ru/storage/audio/b5e622f3-aeef-4d36-adcf-72e81aac1281/1782973077_gn_rasshirsozn.mp3"
+        }
+      ],
+      "size_bytes": 7886889,
+      "size_mb": 7.52,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 7886889,
+      "size_known_mb": 7.52
+    },
+    {
+      "id": "lyubomudrovo-delo",
+      "title": "Любомудрово дело",
+      "author": "Григорий Неделько",
+      "genres": [
+        "Другое"
+      ],
+      "description": "Всё в этом мире связано. И всё имеет смысл. Самые крохотные и самые огромные элементы имеют общую структуру, поняв которую можно приобщиться к великим тайнам вселенной. Только где уж об этом думать, если надо вечно заботиться о собственном выживании?\r\nЖизнь проходит в бытовых заботах, всё подчинено интересам общества. А если кто-то, отложив дела, решит отрешиться от мирской суеты и просто мечтательно взглянуть на небо, его назовут бездельником. И мало кому придёт в голову, что, возможно, от этих любознательных мечтателей в действительности зависит прогресс всего общества! И не безделье это вовсе, а очень даже важное дело: решение вселенских тайн.\r\nИ появление таких искателей истины также закономерно и неизбежно, как и любое другое цикличное явление природы.",
+      "cover": "https://svidbook.ru/storage/book_cover/1782972603_epid_xvtwwivxmmwd_lt9ekzswejbtywls2igjj8iv1lhaw7mu2dzlwi1gpkasp5ahmrr7uh.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:06:38",
+      "annotation_author": "Михаил Загирняк",
+      "cover_artist": "Sent-Lukas",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/lyubomudrovo-delo",
+      "chapters": [
+        {
+          "title": "Любомудрово дело",
+          "url": "https://svidbook.ru/storage/audio/d7d69c8b-4601-4e90-a9c7-c875067b472b/1782972594_lubomudro.mp3"
+        }
+      ],
+      "size_bytes": 6377639,
+      "size_mb": 6.08,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 6377639,
+      "size_known_mb": 6.08
+    },
+    {
+      "id": "mosch-psioniksa",
+      "title": "Мощь псионикса",
+      "author": "Григорий Неделько, Алексей Дуров, Марина Тишанская",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Развитие технологий дошло до контроля над умственными усилиями: воплотились в жизнь да на новый лад мечты о телепатии. Дар ментальной активности, усиленный современными техническими средствами, привел к потрясающим результатам. Телесность и ограниченность преодолена, и человек будущего может становиться частью информационного поля, ноосферы. Но далеко не каждый обладает необходимым потенциалом, чтоб совладать с возможностями. Тех, кто обладает осознаваемой активностью ментальности, называют псионами.\r\nТехнологические изменения привели и к формированию нового мирового порядка. Политические власти в далеком будущем играют декоративную роль. А истинными властителями будущего стали космические торговые корпорации. Единство космического пространства давно бы превратилось в мозаику локальных культурно-экономических зон, если бы ни псионы. Неудивительно, что они постоянно оказываются втянутыми в остросюжетные истории. Вот и псион по имени Чи Линь в ходе обычной рутинной работы оказался втянутым в межпланетные разборки.",
+      "cover": "https://svidbook.ru/storage/book_cover/1784270040_sis6ezzdqt68fn42xb0aglsriy8u39iiu2y5xnsmmxwf8jxushvuclant7wnwfproryjnkzk.jpg",
+      "reader": "Олег Шубин",
+      "duration": "01:24:51",
+      "annotation_author": "Михаил Загирняк",
+      "cover_artist": "Оригинальная",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/mosch-psioniksa",
+      "chapters": [
+        {
+          "title": "Мощь псионикса",
+          "url": "https://svidbook.ru/storage/audio/885684b5-ee18-49d7-89aa-289f82434190/1784270097_flab_psionik.mp3"
+        }
+      ],
+      "size_bytes": 81480306,
+      "size_mb": 77.71,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 81480306,
+      "size_known_mb": 77.71
+    },
+    {
+      "id": "myortvyy-lyod",
+      "title": "Мёртвый лёд",
+      "author": "Сергей Кулагин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "На Новой Земле группа учёных случайно пробуждает древние микроорганизмы, изменяющие климат и порождающие опасных существ. Люди борются за выживание, сталкиваясь не только с внешней угрозой, но и с внутренними дилеммами: сохранить человечность или поддаться страху и жадности.",
+      "cover": "https://svidbook.ru/storage/book_cover/1782976257_myortvyy_lyod_kulagin.jpg",
+      "reader": "Алексей Роу",
+      "duration": "00:33:06",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Алексей Мальцев",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/myortvyy-lyod",
+      "chapters": [
+        {
+          "title": "Мёртвый лёд",
+          "url": "https://svidbook.ru/storage/audio/bab6c7ab-7a9e-4759-8ba2-be58d602dd0a/1782976248_mertvyy_led_finalnyy_golos.mp3"
+        }
+      ],
+      "size_bytes": 31782332,
+      "size_mb": 30.31,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 31782332,
+      "size_known_mb": 30.31
+    },
+    {
+      "id": "mys-syurkum",
+      "title": "Мыс Сюркум",
+      "author": "Владимир Арсеньев",
+      "genres": [
+        "Робинзонада"
+      ],
+      "description": "Они бьются на туземной лодке посреди бушующего моря! \r\nОни должны выжить, но шансов мало! \r\nСлушайте, как это было, в аудиокниге по рассказу Владимира Клавдиевича Арсеньева \" Мыс Сюркум.\" Очередное таежное приключение от автора знаменитой книги \"Дерсу Узала\". \r\nТолько реальные события которые происходили с путешественником и были записаны им в путевой дневник.",
+      "cover": "https://svidbook.ru/storage/book_cover/1784107916_019f6519_70ce_7055_8668_32c5e44843b9.png",
+      "reader": "актёр Костя Суханов",
+      "duration": "00:26:45",
+      "annotation_author": "актёр Костя Суханов",
+      "cover_artist": "Дмитрий Королевский",
+      "sound": "актёр Костя Суханов",
+      "page_url": "https://svidbook.ru/book/mys-syurkum",
+      "chapters": [
+        {
+          "title": "Мыс Сюркум",
+          "url": "https://svidbook.ru/storage/audio/f36e4b6e-18ba-4e1f-b550-58bf3f11a59a/1784107925_v_arsenev_mys_syurkum_svid.mp3"
+        }
+      ],
+      "size_bytes": 25910341,
+      "size_mb": 24.71,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 25910341,
+      "size_known_mb": 24.71
+    },
+    {
+      "id": "novyy-kamennyy-vek-tom-v",
+      "title": "Новый каменный век. Том V",
+      "author": "Лев Белин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Я умер уважаемым профессором антропологии, а проснулся в теле безымянного юнца посреди тундровой степи, окружённого пещерными гиенами. Вокруг — суровый первобытный мир последнего ледникового периода. А в моей голове — вся будущая история человечества: его прорывы, его тупики.\r\nНо какими бы знаниями я ни обладал, здесь правят копьё и инстинкт. И чтобы меня услышали, я должен сначала заслужить место у костра. И лишь тогда я смогу начать свою настоящую работу: шаг за шагом, незаметно для окружающих, изменю путь целого вида.",
+      "cover": "https://svidbook.ru/storage/book_cover/1784484905_photo_2026_07_19_21_38_26.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:59:18",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/novyy-kamennyy-vek-tom-v",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/0d171fcd-b57a-4061-85b2-14b26c765316/1784484993_nkv5_001.mp3"
+        }
+      ],
+      "size_bytes": 33654843,
+      "size_mb": 32.1,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 33654843,
+      "size_known_mb": 32.1
+    },
+    {
+      "id": "on-odin-umeet-letat",
+      "title": "Он один умеет летать",
+      "author": "Александр Ковалев",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Болеть никому не пожелаешь. Что может быть хуже, чем лежать в постели и ждать, пока здоровье вернется?",
+      "cover": "https://svidbook.ru/storage/book_cover/1783585473_019f45f5_3dd3_72c2_b42e_69ae6697b2fc.png",
+      "reader": "Олег Шубин",
+      "duration": "00:38:30",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Дмитрий Королевский",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/on-odin-umeet-letat",
+      "chapters": [
+        {
+          "title": "Он один умеет летать",
+          "url": "https://svidbook.ru/storage/audio/5660e022-e63f-4648-9c32-f6ac4081ac71/1783585500_ak_onodinumeetletat.mp3"
+        }
+      ],
+      "size_bytes": 36978938,
+      "size_mb": 35.27,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 36978938,
+      "size_known_mb": 35.27
+    },
+    {
+      "id": "plamenev-kniga-viii",
+      "title": "Пламенев. Книга VIII",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Как бы мне ни хотелось спокойно учиться, у вселенной другие планы.\r\nТо неизвестный Зверь вылезет, то с Железными опять конфликт, то отношения выяснять приходится, хотя я об этом даже не просил.\r\nА ведь на горизонте еще и магический турнир, к которому я не только должен достичь Ядра Духа, но и научиться его скрывать.\r\nВ общем просто не будет, как и всегда впрочем.\r\nС другой стороны, по-другому было бы неинтересно. Правда ведь?",
+      "cover": "https://svidbook.ru/storage/book_cover/1782301165_679449cb076844c28344948ff92d77e4.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:44:43",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-viii",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/200ed091-2730-4310-a888-6b8eca278569/1782301622_p8_001.mp3"
+        }
+      ],
+      "size_bytes": 59259023,
+      "size_mb": 56.51,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 59259023,
+      "size_known_mb": 56.51
+    },
+    {
+      "id": "pochti-odinnadtsat-chasov",
+      "title": "Почти одиннадцать часов",
+      "author": "Яна Линдаева",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Владелец огромного рыжего кота, изобретатель Викентий, спешит порадовать мир открытием века. Машина времени может извлечь из прошлого и переместить на короткий срок в наше время любое существо. Правда срок пребывания визитеров из прошлого ограничен несколькими часами. А если подопытная подруга просит Викентия достать из глубин Леты самого Александра Сергеевича Пушкина – то он конечно же выполнит просьбу.\r\nЖелание воплотилось в жизнь – и женщине подарили целый день с Пушкиным. Совместная экскурсия по златоглавой столице пролетает стремительно – ведь так много надо поведать Александру Сергеевичу. Интересно как гений пьет из алюминиевой банки современный напиток? А сфоткаться с живым Пушкиным на фоне памятника Пушкину не желаете? Может быть еще автограф?\r\nГлавное, уложиться в срок. Машина времени на встречу представителей разных веков выделяет совсем немного времени…",
+      "cover": "https://svidbook.ru/storage/book_cover/1784270366_t1cnfu5tg9fc247ez61beeuubropsgrepdoy_dnc7m5mzjyjp4jjbxa5x2s6xc9tlbqiodbkuab_n2az.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:39:22",
+      "annotation_author": "Михаил Загирняк",
+      "cover_artist": "Оригинальная",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/pochti-odinnadtsat-chasov",
+      "chapters": [
+        {
+          "title": "Почти одиннадцать часов",
+          "url": "https://svidbook.ru/storage/audio/b0bb3dc5-1147-43b8-a986-c5d9d7732b41/1784270367_lindayeva_11chasov.mp3"
+        }
+      ],
+      "size_bytes": 37801900,
+      "size_mb": 36.05,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 37801900,
+      "size_known_mb": 36.05
+    },
+    {
+      "id": "shapito-port",
+      "title": "Шапито-порт",
+      "author": "Татьяна Левченко",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Рассказ «Шапито‑порт» написан Татьяной Викторовной Левченко и относится к жанру научной фантастики.",
+      "cover": "https://svidbook.ru/storage/book_cover/1783687420_tbrrpa5j0huy0ipblefpjwhcl9wobylqt8doabc0h_qplnlgvhygqjgka1rqcixzvhm_pteax2c_lajw.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:30:25",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Sent-Lukas",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/shapito-port",
+      "chapters": [
+        {
+          "title": "Шапито-порт",
+          "url": "https://svidbook.ru/storage/audio/4dc2f28f-3c53-4b96-aed8-a5d8617b50d6/1783687409_tl_shapito_port.mp3"
+        }
+      ],
+      "size_bytes": 29216600,
+      "size_mb": 27.86,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 29216600,
+      "size_known_mb": 27.86
+    },
+    {
+      "id": "staryy-sasseks-zhizn-posle-zhizni-2",
+      "title": "Старый Сассекс. Жизнь после жизни 2",
+      "author": "Сергей Привалов",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Есть ли жизнь после смерти? Узнаем каждый в своё время. Вот только не факт, что ответ нам понравится. Многие пытались предвидеть грядущее, заглянуть за грань и постичь запретные тайны жизни и смерти. Некоторые даже умерев не оставили попыток выйти за доступные горизонты, свято веря в собственную исключительность. Такие неугомонные пройдохи уцепятся за любую возможность сбежать от скучного ожидания Страшного Суда, лишь бы только увидеть, понять и ощутить сопричастность с чем-то непостижимым и невероятным.\r\nУвы, как бы смешно это ни звучало, но жизнь после смерти и жизнью-то не назовёшь. Уж покойникам об этом известно не понаслышке. Да и выбор не богат – либо сиди тихонечко, жди непонятно чего, либо купи себе свободу, хотя о цене в этих случаях говорить не принято. Однако не всякий знает, что за каждым таким выбором внимательно следят некие невидимые на первый взгляд загробные службы, которые мало отличаются от обычных земных органов власти. И встреча с этими службами – событие если не эпохальное, то уж запоминающееся точно!",
+      "cover": "https://svidbook.ru/storage/book_cover/1783169515_96wwfhrpxwmhob7btpw3rvmgncw64jadwmigq_5q3axtrbqghl0aeoimiqqmd_gafxfdpzct.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:12:47",
+      "annotation_author": "Михаил Загирняк",
+      "cover_artist": "Sent-Lukas",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/staryy-sasseks-zhizn-posle-zhizni-2",
+      "chapters": [
+        {
+          "title": "Старый Сассекс...",
+          "url": "https://svidbook.ru/storage/audio/10a4dd1d-21bf-4c1a-9c28-50381ad200b0/1783169519_staryy_sasseks_zhizn_posle_zhizni_2_sergey_privalov.mp3"
+        }
+      ],
+      "size_bytes": 12273371,
+      "size_mb": 11.7,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 12273371,
+      "size_known_mb": 11.7
+    },
+    {
+      "id": "stsenariy-zhizni",
+      "title": "Сценарий жизни",
+      "author": "Яна Линдаева",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Главная героиня — Ева, она с детства обладает особой чувствительностью: словно «принимает» чужие эмоции и даже угадывает, о чём думают люди. Эта способность делает её одновременно проницательной и очень одинокой — ведь она ощущает чужие настроения, но не может по-настоящему сблизиться с окружающими.\r\nВ жизни Евы появляется необычный персонаж — Гоша, который оказывается чем-то вроде полтергейста с волновой природой: он не имеет привычной человеческой формы, но способен взаимодействовать с миром и с самой Евой. Гоша помогает ей взглянуть на собственную жизнь как на сценарий, который не обязательно должен идти по заранее заданной колее. В финале Ева решается на перемены: она принимает предложение Гоши, и её «сценарий жизни» начинает меняться.",
+      "cover": "https://svidbook.ru/storage/book_cover/1783689800_019f4c2d_2089_7f4c_ac54_24191b7deae4.png",
+      "reader": "Олег Шубин",
+      "duration": "00:24:16",
+      "annotation_author": "ИИ",
+      "cover_artist": "Дмитрий Королевский",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/stsenariy-zhizni",
+      "chapters": [
+        {
+          "title": "Сценарий жизни",
+          "url": "https://svidbook.ru/storage/audio/bcfb72f4-7622-4a14-9946-68d88e37ffa8/1783689775_lindayeva_scenariy.mp3"
+        }
+      ],
+      "size_bytes": 23313345,
+      "size_mb": 22.23,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 23313345,
+      "size_known_mb": 22.23
+    },
+    {
+      "id": "vedmak-chas-prezreniya",
+      "title": "Ведьмак: Час Презрения",
+      "author": "Анджей Сапковский",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "«Ведьмак: Час Презрения» — эпическое фэнтези о Цири, за которой охотятся короли, маги и тайные силы, пока хрупкий мир между Нильфгаардом и Севером готов сорваться в новую войну. Это одна из ключевых книг цикла «Сага о Ведьмаке», где Анджей Сапковский смещает фокус с охоты на чудовищ к большой политике, борьбе за власть и личным решениям, за которые приходится платить. В центре истории — не только столкновение армий и интересов, но и распад прежних союзов, взросление, утрата иллюзий. Здесь особенно заметно, как частная судьба влияет на целый континент, а попытка сохранить нейтралитет становится почти невозможной. Роман важен для всей серии: он резко поднимает ставки и меняет расстановку сил между героями и их противниками.",
+      "cover": "https://svidbook.ru/storage/book_cover/1783697211_019f4c53_81b2_7fd3_97fb_531dacd9a6e6.png",
+      "reader": "Олег Шубин",
+      "duration": "11:18:45",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Дмитрий Королевский",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/vedmak-chas-prezreniya",
+      "chapters": [
+        {
+          "title": "Часть 1",
+          "url": "https://svidbook.ru/storage/audio/9e6ea6d6-51eb-4ef8-90d1-b9fe52ae82c5/1783692160_4p_0101.mp3"
+        },
+        {
+          "title": "Часть 2",
+          "url": "https://svidbook.ru/storage/audio/d58fe310-4f4a-45c6-8ad0-fc2eee704f9b/1783692263_4p_0102.mp3"
+        },
+        {
+          "title": "Часть 3",
+          "url": "https://svidbook.ru/storage/audio/bf387331-f962-47e4-b319-666dad02d734/1783692213_4p_0103.mp3"
+        },
+        {
+          "title": "Часть 4",
+          "url": "https://svidbook.ru/storage/audio/17269935-d10f-4321-969e-2ac690fc085e/1783692180_4p_0104.mp3"
+        },
+        {
+          "title": "Часть 5",
+          "url": "https://svidbook.ru/storage/audio/60a170ff-4e35-4281-8bf1-f679ebe0280d/1783692243_4p_0201.mp3"
+        },
+        {
+          "title": "Часть 6",
+          "url": "https://svidbook.ru/storage/audio/f4b1cbef-4b6c-41cc-9254-f327385896b2/1783692263_4p_0202.mp3"
+        },
+        {
+          "title": "Часть 7",
+          "url": "https://svidbook.ru/storage/audio/a54cdcea-4c35-417d-b710-16e428127ca7/1783692223_4p_0203.mp3"
+        },
+        {
+          "title": "Часть 8",
+          "url": "https://svidbook.ru/storage/audio/e8280c1d-2741-4722-b80b-6c37eb77ea9b/1783692169_4p_0204.mp3"
+        },
+        {
+          "title": "Часть 9",
+          "url": "https://svidbook.ru/storage/audio/8a898597-1c60-4a13-8d30-4edb3e8a1285/1783692253_4p_0301.mp3"
+        },
+        {
+          "title": "Часть 10",
+          "url": "https://svidbook.ru/storage/audio/38eaea7b-38de-4916-9d72-b0c2a64490da/1783692168_4p_0302.mp3"
+        },
+        {
+          "title": "Часть 11",
+          "url": "https://svidbook.ru/storage/audio/cfcba5da-bde1-43da-9ba5-ef3c5e7e7c46/1783692250_4p_0303.mp3"
+        },
+        {
+          "title": "Часть 12",
+          "url": "https://svidbook.ru/storage/audio/0cfe5c52-8db0-4f19-ba6c-61a303948c3e/1783692094_4p_0304.mp3"
+        },
+        {
+          "title": "Часть 13",
+          "url": "https://svidbook.ru/storage/audio/9d004f0f-947b-4da8-be48-d4379d0ed086/1783692110_4p_0401.mp3"
+        },
+        {
+          "title": "Часть 14",
+          "url": "https://svidbook.ru/storage/audio/e337bfc3-7404-41a5-bbc9-06905be98b87/1783692217_4p_0402.mp3"
+        },
+        {
+          "title": "Часть 15",
+          "url": "https://svidbook.ru/storage/audio/478d3eea-700c-4d6b-9886-167929cc7fea/1783692202_4p_0403.mp3"
+        },
+        {
+          "title": "Часть 16",
+          "url": "https://svidbook.ru/storage/audio/6ffd50d4-4c06-4586-886c-9622a57ab99e/1783692260_4p_0404.mp3"
+        },
+        {
+          "title": "Часть 17",
+          "url": "https://svidbook.ru/storage/audio/ab31ffa3-931f-4b8f-b05b-64c72d409035/1783692260_4p_0501.mp3"
+        },
+        {
+          "title": "Часть 18",
+          "url": "https://svidbook.ru/storage/audio/36a7af26-3f81-43bb-a432-180ddce43a04/1783692227_4p_0502.mp3"
+        },
+        {
+          "title": "Часть 19",
+          "url": "https://svidbook.ru/storage/audio/fa926df8-4002-4b90-b8a5-d9cca6ff0bc0/1783692263_4p_0503.mp3"
+        },
+        {
+          "title": "Часть 20",
+          "url": "https://svidbook.ru/storage/audio/00c936b7-78b3-453a-a7fb-17ea63b95f74/1783692215_4p_0601.mp3"
+        },
+        {
+          "title": "Часть 21",
+          "url": "https://svidbook.ru/storage/audio/35664083-88c4-461f-9542-764f3351e295/1783692239_4p_0602.mp3"
+        },
+        {
+          "title": "Часть 22",
+          "url": "https://svidbook.ru/storage/audio/a4272ac3-91e7-4f8f-98e5-28b1ebf9f20e/1783692167_4p_0603.mp3"
+        },
+        {
+          "title": "Часть 23",
+          "url": "https://svidbook.ru/storage/audio/6ae6c072-c9ae-4329-b830-c8fd780f4069/1783692262_4p_0701.mp3"
+        },
+        {
+          "title": "Часть 24",
+          "url": "https://svidbook.ru/storage/audio/1271665f-ff20-4c44-bc2a-6aae1dea9320/1783692197_4p_0702.mp3"
+        },
+        {
+          "title": "Часть 25",
+          "url": "https://svidbook.ru/storage/audio/8f99de48-f6a6-4bc0-8e2f-2dcb5428369a/1783692232_4p_0703.mp3"
+        }
+      ],
+      "size_bytes": 652635814,
+      "size_mb": 622.4,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 652635814,
+      "size_known_mb": 622.4
+    },
+    {
+      "id": "vesyolyy-poputchik",
+      "title": "Весёлый попутчик",
+      "author": "Александр Грин",
+      "genres": [
+        "Другое"
+      ],
+      "description": "Рассказ, в котором сплетаются игра, перевоплощение и тонкая психологическая драма между людьми.\r\nВ центре сюжета — встреча в лесу двух мужчин, с виду похожих на бродяг. Один из них, Эмерсон, утверждает, что он хозяин фермы и лесопильного завода, которого ограбили по дороге по делам. Второй сперва называет себя Биллем Железным Крючком, а позже раскрывает, что на самом деле он Эдмонд Роберт Дуглас — член и секретарь председателя Географического общества, который поспорил, что сможет на полгода принять роль бродяги и при этом не измениться внутренне.\r\nГерои увлечённо рассказывают друг другу свои истории, причём каждый поначалу сомневается в правдивости слов собеседника. Возникает парадоксальная ситуация: один искренне верит в выдумку другого, а тот, кто лжёт, в итоге получает неожиданные возможности. История показывает, как маска и роль могут влиять на восприятие человека другими и даже менять его судьбу.\r\nГрин в этом рассказе размышляет о природе игры и перевоплощения, о зыбкой границе между правдой и ложью, а также о том, как случайная встреча и доверие способны открыть перед человеком новые пути.",
+      "cover": "https://svidbook.ru/storage/book_cover/1782841130_019f0ea0_7b25_7978_a935_b9273dab20db.png",
+      "reader": "актёр Костя Суханов",
+      "duration": "00:27:08",
+      "annotation_author": "актёр Костя Суханов",
+      "cover_artist": "Дмитрий Королевский",
+      "sound": "актёр Костя Суханов",
+      "page_url": "https://svidbook.ru/book/vesyolyy-poputchik",
+      "chapters": [
+        {
+          "title": "Весёлый попутчик",
+          "url": "https://svidbook.ru/storage/audio/9c228db8-12df-478f-9135-abe42cf85b51/1782841122_aleksandr_grin_vesyolyy_poputchik_svid.mp3"
+        }
+      ],
+      "size_bytes": 26852326,
+      "size_mb": 25.61,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 26852326,
+      "size_known_mb": 25.61
+    },
+    {
+      "id": "ya-lyublyu-robota",
+      "title": "Я люблю робота",
+      "author": "Валентина Езерская",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Мир будущего, где все люди совершенны. Генная инженерия в совокупности с пластической хирургией позволяет выбирать себе любую внешность. Мечта человечества сбылась. Теперь современное общество не принимает людей с дефектами, но все же заботится о них. Молодая девушка по имени Азарина одинока. Ведь она слепа от рождения и остро чувствует свою ущербность в таком мире. Технологии настолько развиты, что при помощи их человек научился создавать роботов, внешне практически не отличимых от людей. Роботы или боты, обладают \"искусственной душой\", благодаря которой могут чувствовать и сопереживать. Азарине на помощь присылают именно такого бота.",
+      "cover": "https://svidbook.ru/storage/book_cover/1784271281_1782711883_92.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:16:33",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": null,
+      "page_url": "https://svidbook.ru/book/ya-lyublyu-robota",
+      "chapters": [
+        {
+          "title": "Я люблю робота",
+          "url": "https://svidbook.ru/storage/audio/5fd25dab-46e8-47e2-84e0-8594bf4a3584/1784271273_vz_yalublurobota.mp3"
+        }
+      ],
+      "size_bytes": 15901675,
+      "size_mb": 15.17,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 15901675,
+      "size_known_mb": 15.17
+    },
+    {
+      "id": "simbioz",
+      "title": "Симбиоз",
+      "author": "Владислав Каменев",
+      "genres": [
+        "S.T.A.L.K.E.R"
+      ],
+      "description": "Что есть события вокруг нас? Каким образом могут быть взаимосвязаны, казалось бы, совершенно независимые происшествия? Оказывается могут - мир вокруг находится в единстве, как замкнутая система. Однако, это вовсе не означает, что нет места для противоречий и борьбы интересов.",
+      "cover": "https://svidbook.ru/storage/book_cover/1754314109_7275c53fd85247c7be3a74864a494c4d.jpg",
+      "reader": "Олег Шубин",
+      "duration": "00:14:03",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Владислав Каменев",
+      "sound": "Владислав Каменев",
+      "page_url": "https://svidbook.ru/book/simbioz",
+      "chapters": [
+        {
+          "title": "Симбиоз",
+          "url": "https://svidbook.ru/storage/audio/b5be833a-c855-4e10-bda7-96f103e59650/1772996372_simbioz.mp3"
+        }
+      ],
+      "size_bytes": 33880388,
+      "size_mb": 32.31,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 33880388,
+      "size_known_mb": 32.31
+    },
+    {
+      "id": "plamenev-kniga-iii",
+      "title": "Пламенев. Книга III",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Человек, который должен был рассказать мне о моей семье и моем наследии, мертв. От него осталось только письмо, отправляющее меня за тысячи километров.\r\nЧтобы добраться, наконец, до правды, одного желания недостаточно. Мне придется сыграть сына криминального авторитета, вступить в борьбу за власть внутри банды и начать путь к формированию собственного клана.\r\nИ я приму все испытания, что приготовила мне судьба",
+      "cover": "https://svidbook.ru/storage/book_cover/1774536673_f687877ea4094049950cdb4dd41095ba.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:39:43",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-iii",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/48c0fab1-95da-4425-897b-e48dabba6d54/1774537423_p3_001.mp3"
+        }
+      ],
+      "size_bytes": 52008476,
+      "size_mb": 49.6,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 52008476,
+      "size_known_mb": 49.6
+    },
+    {
+      "id": "plamenev-kniga-iv",
+      "title": "Пламенев. Книга IV",
+      "author": "Сергей Карелин, Юрий Розин",
+      "genres": [
+        "Фантастика"
+      ],
+      "description": "Объявленный розыск снят силами эксцентричного отпрыска вражеского рода, но моя история в банде Червонной Руки на этом только начинается.\r\nДо вступительных экзаменов остается меньше полугода, а я еще не сделал ничего из того, что запланировал. Так что впереди меня ждут новые вызовы, жестокие битвы и даже, возможно, любовь (я, что, не человек, что ли?).\r\nВ любом случае просто не будет. Но это и неплохо, ведь только в сложностях можно стать по-настоящему сильным.",
+      "cover": "https://svidbook.ru/storage/book_cover/1776411097_photo_2026_04_17_12_20_00.jpg",
+      "reader": "Александр Авгур",
+      "duration": "07:28:37",
+      "annotation_author": "Оригинальная",
+      "cover_artist": "Оригинальная",
+      "sound": "Александр Авгур",
+      "page_url": "https://svidbook.ru/book/plamenev-kniga-iv",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/732a045a-4ee9-4137-b555-209efa6e4000/1776410963_p4_001.mp3"
+        }
+      ],
+      "size_bytes": 50627121,
+      "size_mb": 48.28,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 50627121,
+      "size_known_mb": 48.28
     }
   ]
 }
