@@ -1,3 +1,54 @@
+## Bookimp 1.0.6 — Changelog
+
+#### Internet Audio and Caching
+- Added caching for online audio files with support for partially downloaded ranges.
+- Faster online MP3 startup and chapter switching.
+- Improved seeking into MP3 and OGG sections that have not been downloaded yet.
+- Added preloading for the beginning of the next online chapter.
+- Original multichannel files are preserved without conversion.
+- The player now works correctly with servers that do not support HTTP Range.
+- Fully downloaded internet files are played as local files.
+- Downloaded data is reused when downloading a book from the SViD library.
+- Added settings for maximum cache size and cache retention time.
+- Added clearing for the entire audio cache and for individual playlist caches.
+
+#### Interface
+- The waveform for an internet file is now built gradually as the file is cached.
+- The waveform now shows online file download progress.
+- Removed the artificial placeholder waveform for internet sources.
+- Fixed old waveform and track information appearing when switching between files.
+- Fixed buffering status display during startup and seeking.
+- Position and playback duration are now displayed correctly for files without HTTP Range support.
+- Added buttons to the mini-player for hiding it, opening the main window, and closing the app.
+
+#### Metadata, Playlists, and Covers
+- Faster retrieval of metadata and duration for internet files.
+- Increased the metadata reading timeout for slow servers.
+- Fixed rescanning of previously added internet files.
+- Online sources with temporarily unknown duration are no longer detected as radio.
+- Covers are now preserved when exporting and importing M3U, M3U8, PLS, XSPF, and CUE playlists.
+- Full playlist export now also includes covers and can restore them after a clean reinstall.
+- Compatibility with export files from previous versions is preserved.
+
+#### App Updates
+- Added built-in checks for new versions.
+- The installer can now be downloaded directly from the app.
+- Before installation starts, the SHA-256 checksum of the downloaded file is verified.
+- Added the ability to skip a proposed update version.
+- A regular update preserves playlists, bookmarks, settings, presets, covers, and cache.
+- The installer now includes an optional "Clean install" mode with a warning about deleting user data.
+
+#### Fixes
+- Fixed switching to the next chapter after seeking in the current online file.
+- Fixed online sources getting stuck during buffering.
+- Fixed delays and flickering in the "Buffering..." status.
+- Fixed partially downloaded online sources.
+- Eliminated a race between the old and new decoder after seeking.
+- Fixed waveform, timecode, and current track information display issues.
+- Improved playback stability for internet radio and regular online files.
+
+---
+
 ## What's New (Version 1.0.5)
 
 #### Changes:
