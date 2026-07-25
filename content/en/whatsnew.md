@@ -1,3 +1,25 @@
+## Bookimp Android 1.6-stb - Changelog
+
+#### Audio and Playback
+- Improved playback of 4-channel OGG/Vorbis and optimized multichannel audio processing.
+- Improved channel balance handling for 4-channel audio.
+- Added and optimized native audio processing to reduce CPU load and minimize freezes.
+- Improved detection and display of audio file information.
+- Refined media library scanning and audio information saving.
+
+#### Interface and Library
+- Improved cover art and waveform behavior on the playback screen.
+- The Back button on the equalizer screen now returns to the main player screen.
+- Optimized rendering of cards and the SViD library screen.
+- Added special format badges on cards and on the playback screen for books compatible with voice/background balance control.
+- Added Boosty with direct link access to the support details.
+- Updated interface texts and localizations.
+
+#### Stability
+- Added internal stability improvements and release-preparation updates.
+
+---
+
 ## Bookimp 1.1.2 - Changelog
 
 #### Audio Engine and Playback
