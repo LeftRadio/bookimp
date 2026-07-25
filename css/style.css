@@ -250,6 +250,15 @@ img {
     color: var(--muted);
 }
 
+.nav-link-support {
+    color: #c98249;
+    font-weight: 700;
+}
+
+.nav-link-support:hover {
+    color: #b96f34;
+}
+
 .nav-divider {
     height: 1px;
     background: var(--line);
@@ -270,6 +279,12 @@ img {
     margin-top: 6px;
     margin-bottom: 14px;
     font-size: 9px;
+}
+
+.section:not(.section-support) {
+    background:
+        linear-gradient(180deg, color-mix(in srgb, #fffaf2 72%, transparent), transparent 110px),
+        var(--surface);
 }
 
 
@@ -474,6 +489,58 @@ img {
     color: var(--muted);
 }
 
+.support {
+    padding: 18px;
+    margin-top: 0px;
+    margin-left: 70px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    line-height: 1.25;
+    color: var(--muted);
+}
+
+.section-support {
+    border-color: color-mix(in srgb, #d97706 35%, var(--line));
+    background:
+        linear-gradient(180deg, color-mix(in srgb, #fffaf2 72%, transparent), transparent 110px),
+        var(--surface);
+}
+
+.md-support h2 {
+    color: #c98249;
+}
+
+.support-copy {
+    appearance: none;
+    border: 1px solid color-mix(in srgb, var(--line) 85%, #ffffff);
+    background: rgba(255, 255, 255, 0.92);
+    color: var(--text);
+    border-radius: 8px;
+    padding: 4px 8px;
+    font: inherit;
+    cursor: pointer;
+    text-align: left;
+    word-break: break-all;
+    transition: background 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+
+.support-copy:hover {
+    background: #ffffff;
+    border-color: color-mix(in srgb, #d97706 35%, var(--line));
+}
+
+.support-copy.is-copied {
+    background: #ecfdf5;
+    border-color: #10b981;
+    color: #065f46;
+}
+
+.support-copy.is-error {
+    background: #fef2f2;
+    border-color: #ef4444;
+    color: #991b1b;
+}
+
 /* Callout */
 .callout {
     margin-top: 14px;
@@ -622,6 +689,7 @@ img {
     .hero-shot-slider,
     .about,
     .whatsnew,
+    .support,
     .guide,
     .technical,
     .guide-ideas,
@@ -830,5 +898,3 @@ img {
     width: 1px;
     background: color-mix(in srgb, var(--line) 70%, #ffffff);
 }
-
-

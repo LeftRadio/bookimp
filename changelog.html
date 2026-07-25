@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <title>Bookimp Changelog</title>
+        <meta name="description" content="Bookimp full changelog page"/>
+        <link rel="icon" href="assets/favicon.png" type="image/png" sizes="32x32">
+        <link href="css/theme.css" rel="stylesheet" type="text/css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css"/>
+        <style>
+            .changelog-page {
+                min-height: 100vh;
+                padding: 28px 0 40px;
+            }
+
+            .changelog-shell {
+                max-width: 880px;
+                margin: 0 auto;
+                padding: 0 20px;
+            }
+
+            .changelog-card {
+                background: var(--surface);
+                border: 1px solid var(--line);
+                box-shadow: var(--shadow);
+                padding: 22px;
+            }
+
+            .changelog-topbar {
+                display: flex;
+                justify-content: space-between;
+                gap: 16px;
+                align-items: center;
+                margin-bottom: 18px;
+                flex-wrap: wrap;
+            }
+
+            .changelog-home {
+                color: var(--text);
+                text-decoration: none;
+                font-weight: 600;
+            }
+
+            .changelog-home:hover {
+                text-decoration: underline;
+            }
+
+            .changelog-meta {
+                color: var(--muted);
+                font-size: 14px;
+            }
+
+            .changelog-card .md {
+                max-width: none;
+                margin: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <main class="changelog-page">
+            <div class="changelog-shell">
+                <section class="changelog-card">
+                    <div class="changelog-topbar">
+                        <a id="back-link" class="changelog-home" href="index.html#whatsnew">Back to Bookimp</a>
+                        <div class="lang-switch" aria-label="Language switcher">
+                            <button type="button" class="lang-btn" data-lang="en">EN</button>
+                            <button type="button" class="lang-btn" data-lang="ru">RU</button>
+                        </div>
+                    </div>
+                    <div id="changelog-meta" class="changelog-meta"></div>
+                    <div id="changelog-md" class="md" style="margin-top: 14px;"></div>
+                </section>
+            </div>
+        </main>
+
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script>
+            (function () {
+                const supported = ["en", "ru"];
+
+                function getLang() {
+                    const url = new URL(window.location.href);
+                    const lang = url.searchParams.get("lang");
+                    if (supported.includes(lang)) return lang;
+
+                    const saved = localStorage.getItem("lang");
+                    if (supported.includes(saved)) return saved;
+
+                    return "en";
+                }
+
+                function setLangButtons(lang) {
+                    document.querySelectorAll(".lang-btn").forEach((btn) => {
+                        btn.classList.toggle("is-active", btn.getAttribute("data-lang") === lang);
+                    });
+                }
+
+                function applyStaticText(lang) {
+                    const back = document.getElementById("back-link");
+                    const meta = document.getElementById("changelog-meta");
+
+                    if (lang === "ru") {
+                        document.documentElement.lang = "ru";
+                        document.title = "Bookimp - Полное описание изменений";
+                        back.textContent = "Назад к Bookimp";
+                        meta.textContent = "Полное описание изменений для версии 1.1.2";
+                    } else {
+                        document.documentElement.lang = "en";
+                        document.title = "Bookimp - Full Changelog";
+                        back.textContent = "Back to Bookimp";
+                        meta.textContent = "Full change description for version 1.1.2";
+                    }
+                }
+
+                async function loadMarkdown(lang) {
+                    const target = document.getElementById("changelog-md");
+                    const res = await fetch(`content/${lang}/changelog-full.md`, { cache: "no-cache" });
+
+                    if (!res.ok) {
+                        target.textContent = lang === "ru"
+                            ? "Не удалось загрузить полное описание изменений."
+                            : "Failed to load the full change description.";
+                        return;
+                    }
+
+                    const md = await res.text();
+                    target.innerHTML = window.marked.parse(md);
+                }
+
+                async function setLang(lang, updateUrl) {
+                    if (!supported.includes(lang)) lang = "en";
+
+                    localStorage.setItem("lang", lang);
+                    setLangButtons(lang);
+                    applyStaticText(lang);
+                    await loadMarkdown(lang);
+
+                    if (updateUrl) {
+                        const url = new URL(window.location.href);
+                        url.searchParams.set("lang", lang);
+                        window.history.replaceState({}, "", url.toString());
+                    }
+                }
+
+                document.addEventListener("DOMContentLoaded", () => {
+                    const initial = getLang();
+                    setLang(initial, false).catch(console.error);
+
+                    document.querySelectorAll(".lang-btn").forEach((btn) => {
+                        btn.addEventListener("click", () => {
+                            setLang(btn.getAttribute("data-lang"), true).catch(console.error);
+                        });
+                    });
+                });
+            })();
+        </script>
+    </body>
+</html>

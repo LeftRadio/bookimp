@@ -1,4 +1,27 @@
-## Bookimp 1.0.6 — Changelog
+## Bookimp 1.1.2 - Changelog
+
+#### Audio Engine and Playback
+- Introduced a new audio engine architecture with support for multiple playback backends.
+- Added a new BASS-based backend.
+- Reworked the internal audio pipeline and unified real-time audio processing.
+- Improved compatibility and internal organization of VST processing.
+- Refined switching between tracks and different source types.
+- Improved seek and transition handling during playback, reducing unwanted tails and artifacts.
+
+#### Online Playback and Caching
+- Completely rebuilt the online playback and network caching system.
+- Accelerated startup for online file playback.
+- Improved cover art and metadata loading for network sources.
+- Added and improved internet cache settings.
+
+#### Settings and Build
+- Updated the audio devices menu, playback backends, and related parameters.
+- Updated the build and installer for the new audio architecture and dependencies.
+- Full change description: <a href="changelog.html?lang=en" target="_blank" rel="noopener noreferrer">EN</a> | <a href="changelog.html?lang=ru" target="_blank" rel="noopener noreferrer">RU</a>
+
+---
+
+## Bookimp 1.0.6 вЂ” Changelog
 
 #### Internet Audio and Caching
 - Added caching for online audio files with support for partially downloaded ranges.

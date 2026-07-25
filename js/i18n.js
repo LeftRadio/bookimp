@@ -79,9 +79,12 @@
     await loadMarkdown(lang, "whatsnew", "whatsnew-md");
     await loadMarkdown(lang, "technical", "technical-md");
     await loadMarkdown(lang, "guide", "guide-md");
+    await loadMarkdown(lang, "support", "support-md");
 
     // UI state for language buttons
     updateLangUI(lang);
+
+    document.dispatchEvent(new CustomEvent("bookimp:content-loaded", { detail: { lang } }));
   }
 
   window.BookimpI18n = { setLang };

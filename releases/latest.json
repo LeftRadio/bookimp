@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://leftradio.github.io/bookimp/releases/bookimp_1.0.6_setup.exe",
+  "version": "1.1.2",  
+  "download_url": "https://leftradio.github.io/bookimp/releases/bookimp_1.1.2_setup.exe",
   "page_url": "https://leftradio.github.io/bookimp",
-  "build_date": "2026-07-22",
-  "description": "Добавлена встроенная проверка обновлений, улучшено воспроизведение и перемотка интернет-источников, добавлен HTTP-кэш, безопасная опция чистой установки и др.",
-  "sha256": "0ac717877f305ec490f04a33c7e2a817b77533fb84fe23fb34e1a3b73d66fac3",
-  "size_bytes": 61604385
+  "build_date": "2026-07-25",
+  "description": "Крупное обновление аудиодвижка: добавлена поддержка BASS backend, переработано онлайн-воспроизведение и кэширование, улучшены переключение треков, перемотка и общая стабильность воспроизведения.",
+  "sha256": "888327be94b95424be0ff8fa670d1059b700d3b840f195cd7426c53c19b6cc28",
+  "size_bytes": 62066891
 }
