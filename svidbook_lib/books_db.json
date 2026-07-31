@@ -36723,6 +36723,87 @@
       "size_estimated_chapters": 0,
       "size_known_bytes": 50627121,
       "size_known_mb": 48.28
+    },
+    {
+      "id": "rossiya-v-kontslagere",
+      "title": "Россия в концлагере",
+      "author": "Иван Солоневич",
+      "genres": [
+        "Другое"
+      ],
+      "description": "Автобиографические очерки Ивана Лукьяновича Солоневича, в которых он рассказывает о своём аресте, пребывании в советских лагерях и побеге через советско‑финляндскую границу.\r\nОчерки начали публиковаться в 1935 году в парижской газете «Последние новости», а в 1936 году вышли отдельным изданием. Книга получила большой резонанс в русской эмиграции и была переведена на несколько языков.\r\nВ отличие от более поздних произведений о ГУЛАГе, «Россия в концлагере» написана по горячим следам и адресована прежде всего эмигрантской аудитории; акцент сделан не только на страданиях, но и на анализе системы.",
+      "cover": "https://svidbook.ru/storage/book_cover/1784984846_019f6e2e_b8d6_739d_85e2_91a75d646989.png",
+      "reader": "актёр Костя Суханов",
+      "duration": "27:39:35",
+      "annotation_author": "актёр Костя Суханов",
+      "cover_artist": "Дмитрий Королевский",
+      "sound": "актёр Костя Суханов",
+      "page_url": "https://svidbook.ru/book/rossiya-v-kontslagere",
+      "chapters": [
+        {
+          "title": "Глава 1",
+          "url": "https://svidbook.ru/storage/audio/b1fa3fd4-ae12-4c11-9f8f-9f882ed5ee07/1784984924_1solonevich_ivan_rossiya_v_kontslagere_svid.mp3"
+        },
+        {
+          "title": "Глава 2",
+          "url": "https://svidbook.ru/storage/audio/c6bd3d9e-ffe7-4b17-9aa5-25b7ec0820a5/1784985230_2solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 3",
+          "url": "https://svidbook.ru/storage/audio/713cbd50-3f21-4243-a7a1-7af618cc6308/1784985156_3solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 4",
+          "url": "https://svidbook.ru/storage/audio/d6c3e383-fcb4-4845-bc48-e65681bb3eec/1784985208_4solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 5",
+          "url": "https://svidbook.ru/storage/audio/5fffe66b-c092-46b8-a0aa-e7b152d20226/1784985248_5solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 6",
+          "url": "https://svidbook.ru/storage/audio/c003f130-4ed5-46fd-a6f4-e1def5706095/1784985162_6solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 7",
+          "url": "https://svidbook.ru/storage/audio/d09979c0-a47a-4627-801f-49428bdeb854/1784985097_7solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 8",
+          "url": "https://svidbook.ru/storage/audio/1a706f64-75d2-4a31-84c6-9c3347940f87/1784985214_8solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 9",
+          "url": "https://svidbook.ru/storage/audio/6cff44ef-3a01-4330-8398-33a79b37f176/1784985222_9solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 10",
+          "url": "https://svidbook.ru/storage/audio/08ae1837-1606-42af-ab8f-ffe40d5f9152/1784985121_10solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 11",
+          "url": "https://svidbook.ru/storage/audio/eddfa649-553f-49d2-b917-6ddb71ee2b16/1784985146_11solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 12",
+          "url": "https://svidbook.ru/storage/audio/125615be-1917-4a9b-bc28-274479613493/1784985198_12solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 13",
+          "url": "https://svidbook.ru/storage/audio/5c87f8ae-ed5b-4edc-ad37-a812a3e412a3/1784985248_13solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        },
+        {
+          "title": "Глава 14",
+          "url": "https://svidbook.ru/storage/audio/d020a5e0-7dec-465f-96f3-bdde3ac5f80b/1784985132_14solonevich_ivan_rossiya_v_kontslagerechitaet_kostya_suhanov.mp3"
+        }
+      ],
+      "size_bytes": 3940986195,
+      "size_mb": 3758.42,
+      "size_status": "ok",
+      "size_unknown_chapters": 0,
+      "size_estimated_chapters": 0,
+      "size_known_bytes": 3940986195,
+      "size_known_mb": 3758.42
     }
   ]
 }
